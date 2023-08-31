@@ -10,4 +10,4 @@ My favorite color is green.
 
 My favorite animal is the Snowy Owl, here is a picture below:
 
-![image](https://github.com/Eiryu52/ST-558-Blog-Posts/assets/142181846/e43a35b1-85cf-4e88-a5ca-38da3c2a0fc2){width = 70}
+![image](https://github.com/Eiryu52/ST-558-Blog-Posts/assets/142181846/e43a35b1-85cf-4e88-a5ca-38da3c2a0fc2)
