@@ -1,6 +1,6 @@
 Hey everyone!
 Thank you for visiting my github blog, this is where I will post all my blogs for the ST 558 class throughtout the semester.
-I am a current Master's student at NC State in my final semester! I will be graduating in December 2023. I am interested in pursuing a career as a statistician and data scientist, particularly in the field of healthcare, biology, and environmental sciences.
+I am a current Master's student at NC State in my final semester! I will be graduating in December 2023. I am interested in pursuing a career as a statistician and data scientist, particularly in the field of healthcare, biology, or environmental sciences.
 
 My email is kedupug@ncsu.edu if you would like to contact me.
 
