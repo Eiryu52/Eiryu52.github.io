@@ -8,8 +8,8 @@ very nice. I did want to use a PokemonAPI because there would be a plethora of d
 
 Project Github Page:
 
-(https://eiryu52.github.io/Project-2-ST558/)
+https://eiryu52.github.io/Project-2-ST558/
 
 Project Github Repo:
 
-(https://github.com/Eiryu52/Project-2-ST558)
+https://github.com/Eiryu52/Project-2-ST558
