@@ -1,0 +1,12 @@
+There are many methods to consider when building regression models. I think the usage of the different method really depends on what type of
+problem you are trying to solve and the different variables in the dataset for that specific problem. In general, what I like using is best 
+subset selection where we look at different criterion such as AIC and BIC. I found that for many of the homework problems thus far in the
+graduate classes when looking at subset selection it was generally very efficient and useful. I have also used forward and backward selection,
+but generally found the same results when using both. 
+
+What I generally do is look at the dataset for the problem, if there are only between 5-10 variables, I use all of them in the model, then 
+perform best subset selection to choose model with lowest AIC and BIC. If there are greater than 10 variables in the dataset, I generally
+pick the 5-6 most important variables which I think contribute the most to the response variable. Of course this is dependent based on 
+actual context of the problem and proper domain knowledge, so I would definitly do some external research. Once I choose 5-6 most important
+variables, then I do best subset selection on those variables and create the best model. So far, this approach has worked best for me. If
+there are any suggestions to how I could improve my methodology for variable selection in regression, would be happy to have some feedback.
