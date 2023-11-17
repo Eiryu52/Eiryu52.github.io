@@ -12,5 +12,5 @@ project.
 
 The links below are for the ReadME github pages and actual Project 3 repository!
 
-[Project 3 Repository](https://roccomatarazzo.github.io/ProjectThree/)
+[Project 3 Repository](https://github.com/roccoMatarazzo/ProjectThree)
 [Project 3 Pages](https://roccomatarazzo.github.io/ProjectThree/)
