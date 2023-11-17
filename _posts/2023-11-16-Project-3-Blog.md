@@ -9,3 +9,8 @@ time although it should not have. Additionally, calculating the logLoss metrics 
 to figure it out in the end, I did use a different package instead of manually calculating it. My main takeaways are definitly in modeling
 reports and learning more about data modeling. Learned about a new metric that can be used for classification problems! Overall, very nice
 project.
+
+The links below are for the ReadME github pages and actual Project 3 repository!
+
+[Project 3 Repository](https://roccomatarazzo.github.io/ProjectThree/)
+[Project 3 Pages](https://roccomatarazzo.github.io/ProjectThree/)
